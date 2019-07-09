@@ -1,5 +1,5 @@
 # RSU-DoH
-RSU-DoH ist ein Java-Programm, welches ein Profil für Firefox mit [DNS over HTTPS](https://en.wikipedia.org/wiki/DNS_over_HTTPS) ("DoH") erstellt, um [DNS-Blocking](https://en.wikipedia.org/wiki/DNS_blocking) zu umgehen.
+RSU-DoH ist ein Java-Programm, welches ein Firefox-Profil mit aktiviertem [DNS over HTTPS](https://en.wikipedia.org/wiki/DNS_over_HTTPS) ("DoH") erstellt, um [DNS-Blocking](https://en.wikipedia.org/wiki/DNS_blocking) zu umgehen.
 
 ## Download
 [**RSU-DoH herunterladen**](https://github.com/rsu-agar/agar/releases/download/v1.0/RSU-DoH.jar "RSU-DoH herunterladen")
