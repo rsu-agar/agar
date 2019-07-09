@@ -20,6 +20,3 @@ RSU-DoH ist ein Java-Programm, welches ein Profil für Firefox mit [DNS over HTT
 6. Firefox wird dannach mit dem zuvor erstellten Profil automatisch gestartet.
 
 7. Das Programm (RSU-DoH) schließt sich nach einer Sekunde automatisch.
-
-## Spenden
-* Bitcoin `1DrBJrSenhg1z1F6S4ghnHgVeAqvxNH9od`
