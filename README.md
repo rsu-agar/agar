@@ -11,7 +11,7 @@ RSU-DoH ist ein Java-Programm, welches ein Profil für Firefox mit DoH ([Link](h
 
 2. Das Programm starten.
 
-3. Sollte Firefox im Standart-Installationsverzeichnis `C:\Program Files\Mozilla Firefox` nicht gefunden werden, öffnet sich ein Dialog, bei dem Firefox ausgewählt werden muss (`firefox.exe`).
+3. Sollte Firefox im Standard-Installationsverzeichnis `C:\Program Files\Mozilla Firefox` nicht gefunden werden, öffnet sich ein Dialog, bei dem Firefox ausgewählt werden muss (`firefox.exe`).
    
 4. Das Programm legt nun im gleichen Ordner, in dem es ausgeführt wurde, einen neuen Ordner mit dem Namen `RSU-DoH` an.
 
