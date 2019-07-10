@@ -8,17 +8,16 @@ RSU-DoH ist ein Java-Programm, welches ein Firefox-Profil mit aktiviertem [DNS o
 
 1. Firefox herunterladen und installieren ([Link](https://www.mozilla.org/de/firefox/new/))
 2. Das Programm hetunterladen.
-3. Das Programm starten.
-   
-   Sollte Firefox im Standard-Installationsverzeichnis `C:\Program Files\Mozilla Firefox` nicht gefunden werden, öffnet sich ein Dialog, bei dem Firefox ausgewählt werden muss (`firefox.exe`).
-   
-   Das Programm legt nun im gleichen Ordner, in dem es ausgeführt wurde, einen neuen Ordner mit dem Namen `RSU-DoH` an.
-
-   In diesem Ordner wird nun ein neuer Ordner mit dem Schema `ff-profile-DoH-[UUID]` angelegt, welcher ein Firefox-Profil mit voreingestelltem DNS over HTTPS (DoH) beinhaltet. Außerdem wird eine .bat Datei angelegt, um Firefox wieder mit diesem Profil zu starten zu können.
-
-   Firefox wird dannach mit dem zuvor erstellten Profil automatisch gestartet.
-
-   Das Programm (RSU-DoH) schließt sich nach einer Sekunde automatisch.
+3. Das Programm starten. 
+  * Sollte Firefox im Standard-Installationsverzeichnis `C:\Program Files\Mozilla Firefox` nicht gefunden werden, öffnet sich ein Dialog, bei dem Firefox ausgewählt werden muss (`firefox.exe`).
+  
+  * Das Programm legt nun einen Ordner mit dem Namen `RSU-DoH` an.
+  
+  * Darin wird ein neuer Ordner mit dem Schema `ff-profile-DoH-[UUID]` erstellt, welcher ein Firefox-Profil mit voreingestelltem DNS over HTTPS (DoH) beinhaltet. Außerdem wird eine .bat-Datei angelegt, die den Zweck erfüllt, Firefox mit dem soeben erstellten Profil zu starten.
+  
+  * Firefox wird dannach automatisch mit diesem Profil gestartet.
+  
+  * Das Programm (RSU-DoH) schließt sich nach einer Sekunde automatisch.
 
 
 ## Spenden
