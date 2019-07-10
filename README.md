@@ -22,4 +22,4 @@ RSU-DoH ist ein Java-Programm, welches ein Firefox-Profil mit aktiviertem [DNS o
 
 
 ## Spenden
-* Bitcoin 1**RSUDoH**WfyxhRDMew5TZffyM3hPgDoUGK
+* Bitcoin: 1**RSUDoH**WfyxhRDMew5TZffyM3hPgDoUGK
