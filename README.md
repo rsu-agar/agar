@@ -15,7 +15,7 @@ RSU-DoH ist ein Java-Programm, welches ein Firefox-Profil mit aktiviertem [DNS o
   
   * Darin wird ein neuer Ordner mit dem Schema `ff-profile-DoH-[UUID]` erstellt, welcher ein Firefox-Profil mit voreingestelltem DNS over HTTPS (DoH) beinhaltet. Außerdem wird eine .bat-Datei angelegt, die den Zweck erfüllt, Firefox mit dem soeben erstellten Profil zu starten.
   
-  * Firefox wird dannach automatisch mit diesem Profil gestartet.
+  * Firefox wird danach automatisch mit diesem Profil gestartet.
   
   * Das Programm (RSU-DoH) schließt sich nach einer Sekunde automatisch.
 
